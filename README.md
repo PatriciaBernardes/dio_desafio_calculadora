@@ -1,3 +1,3 @@
 # dio_desafio_calculadora
 
-Desafio de Projeto vams criar juntos uma calculadora React
+Desafio de Projeto vamos criar juntos uma calculadora React
